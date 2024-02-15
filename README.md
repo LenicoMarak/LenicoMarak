@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **App development,Web development,Data Science,AI, Computer Science,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LenicoMarak?tab=repositories](https://git@github.com:LenicoMarak/Chat-App-Project2.git)
+- 👨‍💻 All of my projects are available at [https://github.com/LenicoMarak](https://git@github.com:LenicoMarak/Chat-App-Project2.git)
 
 - 📫 How to reach me **lenicomk4@gmail.com**
 
