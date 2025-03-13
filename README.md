@@ -11,8 +11,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **App development, Web development, Data Science, AI, Computer Science**
-- 📫 How to reach me **lenicomk4@gmail.com**
+- 🌱 I’m currently learning **App development, Web development, Data Science, AI**
+- 📫 How to reach me **lenicomarak18@gmail.com**
 - ⚡ Fun fact **Think like a monkey while coding🐵**
 
 <h3 align="left">Languages and Tools:</h3>
